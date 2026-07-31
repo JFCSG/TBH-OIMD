@@ -22,6 +22,12 @@ Archival record: [doi:10.5281/zenodo.21682560](https://doi.org/10.5281/zenodo.21
 | **DOI** | [10.5281/zenodo.21682560](https://doi.org/10.5281/zenodo.21682560) |
 | **License** | CC BY-NC-ND 4.0 (see Zenodo record) |
 
+## Related KLTu publications (content / crypto plane)
+
+- GitHub: https://github.com/JFCSG/KLTu  
+- Paper B: https://doi.org/10.5281/zenodo.21719064  
+- Paper C: https://doi.org/10.5281/zenodo.21543529  
+
 Please cite the **Zenodo DOI**, not this README alone. See [`CITATIONS.md`](CITATIONS.md).
 
 ---
